@@ -3,7 +3,7 @@
 **Modelling & Simulation | Optimization | Applied ML | Mobility & Physical Systems**
 
 I like working on hard engineering problems that require modelling, simulation,
-optimization or data-driven methods — from problem formulation to implementation
+optimization or data-driven methods - from problem formulation to implementation
 and validation.
 
 ## Methods
