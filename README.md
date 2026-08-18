@@ -1,16 +1,14 @@
-## Hi there 👋
+# Balázs Varga, PhD
 
-<!--
-**bva-bme/bva-bme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Modelling & Simulation | Optimization | Applied ML | Mobility & Physical Systems**
 
-Here are some ideas to get you started:
+I like working on hard engineering problems that require modelling, simulation,
+optimization or data-driven methods — from problem formulation to implementation
+and validation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Methods
+
+- Applied ML: XGBoost, Gaussian Processes, reinforcement learning
+- Optimization: constrained and multi-objective optimization, Design of Experiments
+- Control: MPC, robust control, LPV
+- Simulation: physics-based modelling, co-simulation, real-time simulation
